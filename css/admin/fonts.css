@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'font_medium';
+    src: url('fonts/gesstwomedium.eot');
+    src: url('fonts/gesstwomedium.eot') format('embedded-opentype'),
+         url('fonts/gesstwomedium.woff2') format('woff2'),
+         url('fonts/gesstwomedium.woff') format('woff'),
+         url('fonts/gesstwomedium.ttf') format('truetype'),
+         url('fonts/gesstwomedium.svg#GESSTwoMedium') format('svg');
+}
+@font-face {
+    font-family: 'font_bold';
+    src: url('fonts/gesstwobold.eot');
+    src: url('fonts/gesstwobold.eot') format('embedded-opentype'),
+         url('fonts/gesstwobold.woff2') format('woff2'),
+         url('fonts/gesstwobold.woff') format('woff'),
+         url('fonts/gesstwobold.ttf') format('truetype'),
+         url('fonts/gesstwobold.svg#GESSTwoBold') format('svg');
+}
+@font-face {
+    font-family: 'font_light';
+    src: url('fonts/gesstwolight.eot');
+    src: url('fonts/gesstwolight.eot') format('embedded-opentype'),
+         url('fonts/gesstwolight.woff2') format('woff2'),
+         url('fonts/gesstwolight.woff') format('woff'),
+         url('fonts/gesstwolight.ttf') format('truetype'),
+         url('fonts/gesstwolight.svg#GESSTwoLight') format('svg');
+}
